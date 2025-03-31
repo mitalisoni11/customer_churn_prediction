@@ -7,7 +7,7 @@ This project focuses on predicting customer churn using machine learning models.
 ## Project workflow
 
 1. Data Preprocessing:
-- Handled missing values, feature encoding, and scaling
+- Handled missing values, class imbalance, feature encoding, and scaling
 2. Exploratory Data Analysis (EDA) to understand patterns
 Baseline Model:
 - Logistic Regression as the initial benchmark
